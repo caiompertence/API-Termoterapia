@@ -1,7 +1,7 @@
 # Documento Inicial — A3 Sistemas Distribuídos
 
 **Projeto:** Termoterapia — API de Pacientes
-**Grupo:** Arthur Santana, Caio Pertence, Davi Augusto, Lucas Belisário, Lucas Machado.
+**Grupo:** Arthur Santana, Caio Pertence, Davi Augusto, Lucas Belisário, Lucas Machado
 
 ## 1. Tema
 Orientação para o uso doméstico de **termoterapia** (aplicação de frio ou calor) por pacientes em acompanhamento fisioterapêutico.
